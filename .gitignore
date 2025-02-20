@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/.vs/Portfolio-QA
+/.vs/Portfolio-QA/FileContentIndex
+/.vs/Portfolio-QA/FileContentIndex/3f02d728-c914-40bc-ade9-55fb0e722d32.vsidx
+/.vs/Portfolio-QA/FileContentIndex/51515b60-7ce4-41d3-bd95-92fb1aab1257.vsidx
+/.vs/Portfolio-QA/FileContentIndex/5831db70-76c5-4a60-9460-dd62aa37b888.vsidx
+/.vs/Portfolio-QA/FileContentIndex/8b673f5b-d2e3-42cf-869d-44c97c1d3d34.vsidx
+/.vs/Portfolio-QA/FileContentIndex/fe94ce71-8c5a-4df2-abb6-d40c495a64a5.vsidx
+/.vs/Portfolio-QA/v17
+/.vs/Portfolio-QA/v17/.wsuo
+/.vs/Portfolio-QA/v17/DocumentLayout.json

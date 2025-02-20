@@ -13,7 +13,7 @@
 8. Add sample text **"Test rule based on day of datetime"** and set the font size to **12** for visibility.
 9. Navigate to the **Rules** tab within the properties.
 10. Add a new rule: **If [CurrentDateTime] < {Enter Date Time} Then (hide element).**
-    - `{Enter Date Time}` should be set in the future so that the element remains hidden until that time.
+	- `{Enter Date Time}` should be set in the future so that the element remains hidden until that time.
 11. Save the changes by clicking **Save**.
 12. Start **Preview** mode by clicking the **Preview** button on the top toolbar or pressing **F10**.
 
@@ -38,7 +38,7 @@
 8. Add sample text **"Test rule based on day of datetime"** and set the font size to **12** for visibility.
 9. Navigate to the **Rules** tab within the properties.
 10. Add a new rule: **If [CurrentDateTime] > {Enter Date Time} Then (show element).**
-    - `{Enter Date Time}` should be set in the past so that the element becomes visible when the rule is applied.
+	- `{Enter Date Time}` should be set in the past so that the element becomes visible when the rule is applied.
 11. Save the changes by clicking **Save**.
 12. Start **Preview** mode by clicking the **Preview** button on the top toolbar or pressing **F10**.
 
