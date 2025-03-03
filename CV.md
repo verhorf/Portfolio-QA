@@ -60,6 +60,8 @@ E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com) <br>
 <p style="text-align:left";>Computer Programming at "2nd Academic Lyceum at Tashkent University of IT" | Jan 2009 - Dec 2012 </p>
 
 <h2 style="text-align:left;"> Additional information:</p>
+
+<h3> 
 <ul>
 	<li>Languages </li><ul>
 		<li> Russian</li>
@@ -69,4 +71,5 @@ E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com) <br>
 		<li><em>Learn C++ for Game Development</em> Completed</li>
 		<li><em>Unreal Engine 5 C++ The Ultimate Game Developer Course</em> In Progress</li>
 		<li><em>Docker Mastery: with Kubernetes +Swarm from a Docker Captain</em> Completed In 2020</li></ul>
-</ul>
+</ul>=
+</p>
