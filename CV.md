@@ -1,8 +1,8 @@
 <h2 style="text-align:center;"> Sergei Bogdashin</p>
 <h3 style="text-align:center;"> Application Support Engineer</p>
-London, United Kingdom | Tel.: +447479476054 <br>
+<h3 style="text-align:center;">London, United Kingdom | Tel.: +447479476054</p>
 
-E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com) <br>
+E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com)
 [LinkedIn](https://www.linkedin.com/in/sergeibogdashin/)
 
 <h2 style="text-align:left;"> Summary:</p>
