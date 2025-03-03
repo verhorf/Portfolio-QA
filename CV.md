@@ -1,12 +1,12 @@
 <h2 style="text-align:center;"> Sergei Bogdashin</p>
-<h4 style="text-align:center;"> Application Support Engineer</p>
+<h3 style="text-align:center;"> Application Support Engineer</p>
 London, United Kingdom | Tel.: +447479476054 <br>
 
 E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com) <br>
 [LinkedIn](https://www.linkedin.com/in/sergeibogdashin/)
 
-<h3 style="text-align:left;"> Summary:</p>
-<p style="text-align:center";> Experienced Technical Support Engineer with over 10 years of expertise in  IT, AV, Application support and Integration. Skilled in troubleshooting, team leadership, and delivering exceptional customer service in high-pressure environments. Proficient with Windows Server, Linux systems, digital signage software, and a wide range of AV technologies. Adept at managing large-scale IT infrastructure and collaborating with cross-functional teams. </p>
+<h2 style="text-align:left;"> Summary:</p>
+<h3 style="text-align:center";> Experienced Technical Support Engineer with over 10 years of expertise in  IT, AV, Application support and Integration. Skilled in troubleshooting, team leadership, and delivering exceptional customer service in high-pressure environments. Proficient with Windows Server, Linux systems, digital signage software, and a wide range of AV technologies. Adept at managing large-scale IT infrastructure and collaborating with cross-functional teams. </p>
 
 <h2 style="text-align:left;"> Professional Expirience:</p>
 <h3 style="text-align:left;"> Auvix (May 2017 - Jul 2023)</p>
@@ -57,7 +57,7 @@ E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com) <br>
 </ul>
 
 <h2 style="text-align:left;"> Education:</p>
-<p style="text-align:left";>Computer Programming at "2nd Academic Lyceum at Tashkent University of IT" | Jan 2009 - Dec 2012 </p>
+<h3 style="text-align:left";>Computer Programming at "2nd Academic Lyceum at Tashkent University of IT" | Jan 2009 - Dec 2012 </p>
 
 <h2 style="text-align:left;"> Additional information:</p>
 
@@ -71,5 +71,5 @@ E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com) <br>
 		<li><em>Learn C++ for Game Development</em> Completed</li>
 		<li><em>Unreal Engine 5 C++ The Ultimate Game Developer Course</em> In Progress</li>
 		<li><em>Docker Mastery: with Kubernetes +Swarm from a Docker Captain</em> Completed In 2020</li></ul>
-</ul>=
+</ul>
 </p>
