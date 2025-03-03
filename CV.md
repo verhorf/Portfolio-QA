@@ -57,7 +57,7 @@ E-mail:[serg19949417@gmail.com](mailto:serg19949417@gmail.com) <br>
 </ul>
 
 <h2 style="text-align:left;"> Education:</p>
-<h3 style="text-align:left";>Computer Programming at "2nd Academic Lyceum at Tashkent University of IT" | Jan 2009 - Dec 2012 </p>
+<h3 style="text-align:left";> "Computer Programming" at 2nd Academic Lyceum at Tashkent University of IT | Jan 2009 - Dec 2012 </p>
 
 <h2 style="text-align:left;"> Additional information:</p>
 
